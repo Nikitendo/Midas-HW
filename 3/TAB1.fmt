@@ -1,0 +1,2 @@
+DEFINE/FIELD R :TIME "days"
+DEFINE/FIELD R :FLUX "erg/s/cm2"
